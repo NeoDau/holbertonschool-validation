@@ -13,4 +13,4 @@
 - A Makefile should be present and valid.
 - The binary `awesome-api` must NOT exist at the beginning, in the source code.
 - The goals `build`, `run`, `stop`, `clean`, and `test` should be implemented and mapped to the life-cycle stages of the same name.
-- The `help` goal must be implemented and print a list of all the goals with a sentence each.
+- The `help` goal must be implemented and print a list of all the goals with a sentence each
