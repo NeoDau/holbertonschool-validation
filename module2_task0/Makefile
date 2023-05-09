@@ -1,3 +1,7 @@
+EXE_NAME = awesome-api
+SRC = main.go
+RM = rm -r
+
 build: ## Build awesome-api
 	go build -o awesome-api
 
